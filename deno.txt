@@ -1,1 +1,4 @@
-Print("hi there")
+class animal{
+animal(int a){
+}
+}
